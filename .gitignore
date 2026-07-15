@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Lock files (as requested)
+package-lock.json
+
+# User uploaded files
+src/public/uploads/
+
+# Environment variables 
+.env
